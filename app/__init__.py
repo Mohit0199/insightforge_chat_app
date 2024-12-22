@@ -26,7 +26,7 @@ class AppConfig:
         return config
         
 
-def create_app():
+def create_app(config=None):
     """Create and config the flask app"""
 
     app = Flask(__name__, template_folder='templates')
