@@ -43,7 +43,7 @@ Before you begin, ensure you have the following installed:
 4. **Run the Application:**
    - Start the application by running:
      ```
-     python app.py
+     python main.py
      ```
 
 ### **Usage:**
